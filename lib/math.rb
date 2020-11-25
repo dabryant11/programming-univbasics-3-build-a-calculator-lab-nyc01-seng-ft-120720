@@ -32,5 +32,4 @@ def square_root(num)
   result = num**
   puts result 
   result
-  
 end
